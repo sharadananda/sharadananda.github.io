@@ -23,7 +23,7 @@ repository               : "sharadananda.github.io" #"academicpages/academicpage
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Sharadananda Mondal"
   pronouns         : # example: "she/her"  
   bio              : "Economics researcher and data scientist with a background in AI/ML, econometrics, and applied analytics. Interested in causal machine learning, AI for social good, digital economy, and LLMs."
