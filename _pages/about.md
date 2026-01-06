@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sharadananda Mondal is an interdisciplinary researcher with interests at the intersection of economics, data science, and artificial intelligence. His work focuses on applying quantitative and computational methods to socio-economic analysis, public policy, and data-driven decision-making, with particular attention to real-world institutional contexts.
+Sharadananda Mondal is an interdisciplinary researcher with interests at the intersection of economics, data science, and artificial intelligence. His work focuses on applying quantitative and computational methods to socio-economic analysis, policy, and data-driven decision-making, with particular attention to real-world institutional contexts.
 
 His research orientation emphasizes causal inference and responsible AI, aiming to move beyond prediction toward explanation, robustness, and policy relevance. Topics such as algorithmic bias, fairness, and the societal implications of AI systems are central to his ongoing academic and applied interests.
 
